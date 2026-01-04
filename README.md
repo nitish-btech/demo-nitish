@@ -1,4 +1,4 @@
 # demo-nitish
-This is my second  git repository.
+this is my first git repository.
 
 
